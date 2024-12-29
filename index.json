@@ -1,0 +1,1626 @@
+[
+  {
+   "S.No.": 1,
+   "Enrollment No": "IIT2022001",
+   "Name": "AARAV SAINI",
+   "DoB": "07-11-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 2,
+   "Enrollment No": "IIT2022002",
+   "Name": "AARJAV JAIN",
+   "DoB": "29-01-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 3,
+   "Enrollment No": "IIT2022003",
+   "Name": "ADITYA RAJ",
+   "DoB": "21-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 4,
+   "Enrollment No": "IIT2022004",
+   "Name": "AKSHAT BHANSALI",
+   "DoB": "24-06-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 5,
+   "Enrollment No": "IIT2022005",
+   "Name": "AKSHIT NANDAN",
+   "DoB": "26-03-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 6,
+   "Enrollment No": "IIT2022006",
+   "Name": "AMISHA KUMARI",
+   "DoB": "17-01-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 7,
+   "Enrollment No": "IIT2022007",
+   "Name": "ANMOL NAG",
+   "DoB": "15-04-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 8,
+   "Enrollment No": "IIT2022008",
+   "Name": "ASHOK KUMAR",
+   "DoB": "20-04-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 9,
+   "Enrollment No": "IIT2022009",
+   "Name": "AYUSH ANAND",
+   "DoB": "19-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 10,
+   "Enrollment No": "IIT2022010",
+   "Name": "AYUSH SHARMA",
+   "DoB": "09-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 11,
+   "Enrollment No": "IIT2022011",
+   "Name": "AYUSH VERMA",
+   "DoB": "13-11-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 12,
+   "Enrollment No": "IIT2022012",
+   "Name": "BHANU SINGH",
+   "DoB": "26-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 13,
+   "Enrollment No": "IIT2022013",
+   "Name": "CHUNDURU TEJA LALITHA PRAHARSHITHA",
+   "DoB": "17-07-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 14,
+   "Enrollment No": "IIT2022014",
+   "Name": "DACHEPALLI SUJITHA",
+   "DoB": "22-03-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 15,
+   "Enrollment No": "IIT2022015",
+   "Name": "DHRUV BHARUKA",
+   "DoB": "15-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 16,
+   "Enrollment No": "IIT2022016",
+   "Name": "DHRUV CHOUHAN",
+   "DoB": "31-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 17,
+   "Enrollment No": "IIT2022017",
+   "Name": "DIKSHA PARIHAR",
+   "DoB": "28-03-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 18,
+   "Enrollment No": "IIT2022018",
+   "Name": "DIVYANSH GUPTA",
+   "DoB": "15-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 19,
+   "Enrollment No": "IIT2022019",
+   "Name": "GINJALA INEESH REDDY",
+   "DoB": "15-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 20,
+   "Enrollment No": "IIT2022020",
+   "Name": "HARSHITA JAIN",
+   "DoB": "21-10-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 21,
+   "Enrollment No": "IIT2022021",
+   "Name": "ITALIYA SMIT JAYANTIBHAI",
+   "DoB": "03-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 22,
+   "Enrollment No": "IIT2022022",
+   "Name": "JAIN JENIL PARAS",
+   "DoB": "28-11-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 23,
+   "Enrollment No": "IIT2022023",
+   "Name": "JATAVATH SURESH",
+   "DoB": "01-01-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 24,
+   "Enrollment No": "IIT2022024",
+   "Name": "JUTURU HARSHITHA",
+   "DoB": "30-07-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 25,
+   "Enrollment No": "IIT2022025",
+   "Name": "KARTIK BHATT",
+   "DoB": "14-10-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 26,
+   "Enrollment No": "IIT2022026",
+   "Name": "KASUKURTHI HARSHITHA",
+   "DoB": "24-05-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 27,
+   "Enrollment No": "IIT2022027",
+   "Name": "KOMARAGIRI MADHAV",
+   "DoB": "21-04-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 28,
+   "Enrollment No": "IIT2022028",
+   "Name": "KOMARAGIRI MADHUR",
+   "DoB": "21-04-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 29,
+   "Enrollment No": "IIT2022029",
+   "Name": "LAKSHYA KHANDELWAL",
+   "DoB": "01-07-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 30,
+   "Enrollment No": "IIT2022030",
+   "Name": "MANAV SINGH",
+   "DoB": "29-10-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 31,
+   "Enrollment No": "IIT2022031",
+   "Name": "MOHAMMED ASIM AHMED",
+   "DoB": "06-04-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 32,
+   "Enrollment No": "IIT2022032",
+   "Name": "MOHIT KUMAR",
+   "DoB": "03-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 33,
+   "Enrollment No": "IIT2022033",
+   "Name": "NAGENDLA NARASIMHA REDDY",
+   "DoB": "14-06-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 34,
+   "Enrollment No": "IIT2022034",
+   "Name": "NITISH KUMAR",
+   "DoB": "20-02-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 35,
+   "Enrollment No": "IIT2022035",
+   "Name": "PAGARE PRASHIK KARBHARI",
+   "DoB": "07-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 36,
+   "Enrollment No": "IIT2022036",
+   "Name": "PARAG DADHICH",
+   "DoB": "08-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 37,
+   "Enrollment No": "IIT2022037",
+   "Name": "PIYUSH SHUKLA",
+   "DoB": "10-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 38,
+   "Enrollment No": "IIT2022038",
+   "Name": "POLISETTY SUNDAR SRI CHARAN",
+   "DoB": "13-03-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 39,
+   "Enrollment No": "IIT2022039",
+   "Name": "PRAFULL SINGH",
+   "DoB": "15-10-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 40,
+   "Enrollment No": "IIT2022040",
+   "Name": "RAJNISH YADAV",
+   "DoB": "05-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 41,
+   "Enrollment No": "IIT2022041",
+   "Name": "RATHOD ARYAN SANTOSH",
+   "DoB": "05-07-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 42,
+   "Enrollment No": "IIT2022042",
+   "Name": "ROKADE MAYUR BHALCHANDRA",
+   "DoB": "03-08-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 43,
+   "Enrollment No": "IIT2022043",
+   "Name": "SADINENI GREESHMA CHOWDARY",
+   "DoB": "16-12-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 44,
+   "Enrollment No": "IIT2022044",
+   "Name": "SAHIL SHARMA",
+   "DoB": "15-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 45,
+   "Enrollment No": "IIT2022045",
+   "Name": "SANSKRUTI PRAVIN YEOLE",
+   "DoB": "17-01-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 46,
+   "Enrollment No": "IIT2022046",
+   "Name": "SHAGUN SAURABH",
+   "DoB": "28-02-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 47,
+   "Enrollment No": "IIT2022047",
+   "Name": "SHIV PANDEY",
+   "DoB": "07-03-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 48,
+   "Enrollment No": "IIT2022048",
+   "Name": "SHIVAM PATIL",
+   "DoB": "22-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 49,
+   "Enrollment No": "IIT2022049",
+   "Name": "SHREYASH DEVRAO DELMADE",
+   "DoB": "29-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 50,
+   "Enrollment No": "IIT2022050",
+   "Name": "SIDHANT BHAGAT",
+   "DoB": "02-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 51,
+   "Enrollment No": "IIT2022051",
+   "Name": "SONAL CHOUDHARY",
+   "DoB": "11-03-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 52,
+   "Enrollment No": "IIT2022052",
+   "Name": "SUMIT VERMA",
+   "DoB": "01-01-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 53,
+   "Enrollment No": "IIT2022053",
+   "Name": "TATTA I SREERAM",
+   "DoB": "29-12-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 54,
+   "Enrollment No": "IIT2022054",
+   "Name": "UDIT MANOJ AGRAWAL",
+   "DoB": "17-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 55,
+   "Enrollment No": "IIT2022055",
+   "Name": "VANAM KARUNAKAR",
+   "DoB": "16-04-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 56,
+   "Enrollment No": "IIT2022056",
+   "Name": "VEDANSH GUPTA",
+   "DoB": "09-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 57,
+   "Enrollment No": "IIT2022057",
+   "Name": "YELLURI VIDYENDRA",
+   "DoB": "10-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 58,
+   "Enrollment No": "IIT2022058",
+   "Name": "DEEPALA NITHISH",
+   "DoB": "10-09-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 59,
+   "Enrollment No": "LCS2022001",
+   "Name": "ADNAN AKHTAR",
+   "DoB": "16-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 60,
+   "Enrollment No": "LCS2022002",
+   "Name": "AKSHAT YADAV",
+   "DoB": "01-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 61,
+   "Enrollment No": "LCS2022003",
+   "Name": "ANUJ KUMAR",
+   "DoB": "27-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 62,
+   "Enrollment No": "LCS2022004",
+   "Name": "ASTITVA RAJESH",
+   "DoB": "17-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 63,
+   "Enrollment No": "LCS2022005",
+   "Name": "ATHARV KRISHNARAO SAWANT",
+   "DoB": "28-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 64,
+   "Enrollment No": "LCS2022006",
+   "Name": "ATHARVA LALIT DUDHE",
+   "DoB": "02-11-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 65,
+   "Enrollment No": "LCS2022007",
+   "Name": "AVIRAL KATIYAR",
+   "DoB": "25-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 66,
+   "Enrollment No": "LCS2022008",
+   "Name": "AYUSH GUPTA",
+   "DoB": "17-12-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 67,
+   "Enrollment No": "LCS2022009",
+   "Name": "AYUSHI GUPTA",
+   "DoB": "10-01-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 68,
+   "Enrollment No": "LCS2022010",
+   "Name": "BANOTHU HARSHITH",
+   "DoB": "20-11-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 69,
+   "Enrollment No": "LCS2022011",
+   "Name": "BONGIRWAR AKHILENDER",
+   "DoB": "24-02-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 70,
+   "Enrollment No": "LCS2022012",
+   "Name": "CHITTA SRI SANKARA NAGA PAVANA SAKETHA RAM",
+   "DoB": "16-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 71,
+   "Enrollment No": "LCS2022013",
+   "Name": "DEV CHANDNA",
+   "DoB": "15-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 72,
+   "Enrollment No": "LCS2022014",
+   "Name": "DHEERAVATH SHISHIRO",
+   "DoB": "26-04-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 73,
+   "Enrollment No": "LCS2022015",
+   "Name": "DRAKSHAM THARUN",
+   "DoB": "26-10-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 74,
+   "Enrollment No": "LCS2022016",
+   "Name": "DUDEKULA MAHAMMAD HUSSAIN",
+   "DoB": "20-07-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 75,
+   "Enrollment No": "LCS2022017",
+   "Name": "GAURAV PALIWAL",
+   "DoB": "15-10-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 76,
+   "Enrollment No": "LCS2022018",
+   "Name": "GUNTURU RAMANUJAN VARSHIT",
+   "DoB": "25-04-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 77,
+   "Enrollment No": "LCS2022019",
+   "Name": "GYANDEEP KATIYAR",
+   "DoB": "17-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 78,
+   "Enrollment No": "LCS2022020",
+   "Name": "HARDIK YADAV",
+   "DoB": "09-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 79,
+   "Enrollment No": "LCS2022021",
+   "Name": "HARSHIT PRALAY CHORDIYA",
+   "DoB": "06-05-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 80,
+   "Enrollment No": "LCS2022022",
+   "Name": "HARSHITA GUPTA",
+   "DoB": "06-08-2002",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 81,
+   "Enrollment No": "LCS2022023",
+   "Name": "HIMANSHU SHARMA",
+   "DoB": "02-12-2001",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 82,
+   "Enrollment No": "LCS2022024",
+   "Name": "JHALA KULDEEPSINH KIRTISINH",
+   "DoB": "30-06-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 83,
+   "Enrollment No": "LCS2022025",
+   "Name": "KAMUJU GNANENDRA RAGHAVA",
+   "DoB": "31-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 84,
+   "Enrollment No": "LCS2022026",
+   "Name": "KOTA KARTHIK",
+   "DoB": "23-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 85,
+   "Enrollment No": "LCS2022027",
+   "Name": "KRISHNA SUMIT",
+   "DoB": "01-05-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 86,
+   "Enrollment No": "LCS2022028",
+   "Name": "MANISH RAWAT",
+   "DoB": "15-04-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 87,
+   "Enrollment No": "LCS2022029",
+   "Name": "MANJEET KUMAR",
+   "DoB": "23-08-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 88,
+   "Enrollment No": "LCS2022030",
+   "Name": "MANROOP KAUR",
+   "DoB": "04-12-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 89,
+   "Enrollment No": "LCS2022031",
+   "Name": "MITALI JAMBHULKAR",
+   "DoB": "06-07-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 90,
+   "Enrollment No": "LCS2022032",
+   "Name": "MOHIT RAGHAV",
+   "DoB": "07-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 91,
+   "Enrollment No": "LCS2022033",
+   "Name": "MONARK JAIN",
+   "DoB": "18-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 92,
+   "Enrollment No": "LCS2022034",
+   "Name": "NEERAJ PANDEY",
+   "DoB": "06-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 93,
+   "Enrollment No": "LCS2022035",
+   "Name": "NIMESH DUTT",
+   "DoB": "30-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 94,
+   "Enrollment No": "LCS2022036",
+   "Name": "NUDHURUPATI KARTHIK AKSHAJ",
+   "DoB": "10-12-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 95,
+   "Enrollment No": "LCS2022037",
+   "Name": "PALAK AGARWAL",
+   "DoB": "05-08-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 96,
+   "Enrollment No": "LCS2022038",
+   "Name": "PRASHANT KUMAR SHAW",
+   "DoB": "23-10-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 97,
+   "Enrollment No": "LCS2022039",
+   "Name": "PRAVEEN KUMAR JAISWAL",
+   "DoB": "10-08-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 98,
+   "Enrollment No": "LCS2022040",
+   "Name": "RAHI DURGE",
+   "DoB": "08-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 99,
+   "Enrollment No": "LCS2022041",
+   "Name": "RISHI ROHILLA",
+   "DoB": "12-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 100,
+   "Enrollment No": "LCS2022042",
+   "Name": "SAMBHAV SINGLA",
+   "DoB": "20-11-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 101,
+   "Enrollment No": "LCS2022043",
+   "Name": "SAMRIDDHI SINGH",
+   "DoB": "06-03-2002",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 102,
+   "Enrollment No": "LCS2022044",
+   "Name": "SATVIK GARG",
+   "DoB": "23-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 103,
+   "Enrollment No": "LCS2022045",
+   "Name": "SHRESHTHA AGGARWAL",
+   "DoB": "27-08-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 104,
+   "Enrollment No": "LCS2022046",
+   "Name": "SINGH SHREYA DEVENDRA PRATAP",
+   "DoB": "23-08-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 105,
+   "Enrollment No": "LCS2022047",
+   "Name": "SOUMIK GHOSH",
+   "DoB": "17-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 106,
+   "Enrollment No": "LCS2022048",
+   "Name": "SUNIL TIRWAL",
+   "DoB": "10-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 107,
+   "Enrollment No": "LCS2022049",
+   "Name": "SUTHAPALLI NAGA SATYA SRIDHAR",
+   "DoB": "15-08-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 108,
+   "Enrollment No": "LCS2022050",
+   "Name": "SWETA SINGH",
+   "DoB": "22-03-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 109,
+   "Enrollment No": "LCS2022051",
+   "Name": "TANNYA SINGH",
+   "DoB": "07-10-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 110,
+   "Enrollment No": "LCS2022052",
+   "Name": "UMESH SINGH VERMA",
+   "DoB": "03-08-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 111,
+   "Enrollment No": "LCS2022053",
+   "Name": "URBASHREE HAZARIKA",
+   "DoB": "24-11-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 112,
+   "Enrollment No": "LCS2022054",
+   "Name": "UTTKARSH MARWAH",
+   "DoB": "29-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 113,
+   "Enrollment No": "LCS2022055",
+   "Name": "VANSH KHARE",
+   "DoB": "13-02-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 114,
+   "Enrollment No": "LCS2022056",
+   "Name": "VISHAL",
+   "DoB": "27-01-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 115,
+   "Enrollment No": "LCS2022057",
+   "Name": "YASH AGARWAL",
+   "DoB": "13-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 116,
+   "Enrollment No": "LCS2022058",
+   "Name": "RAGHUNANDAN",
+   "DoB": "11-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 117,
+   "Enrollment No": "LCS2022059",
+   "Name": "JAMPANI ABHIRAM",
+   "DoB": "11-02-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 118,
+   "Enrollment No": "LCI2022001",
+   "Name": "AADITYA MISHRA",
+   "DoB": "15-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 119,
+   "Enrollment No": "LCI2022002",
+   "Name": "ABHAY KUMAR VERMA",
+   "DoB": "12-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 120,
+   "Enrollment No": "LCI2022003",
+   "Name": "ADITYA SINGH GAHLAUT",
+   "DoB": "09-04-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 121,
+   "Enrollment No": "LCI2022004",
+   "Name": "ADITYA SUHASRAO DESHPANDE",
+   "DoB": "26-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 122,
+   "Enrollment No": "LCI2022005",
+   "Name": "AKHIL KUMAR",
+   "DoB": "15-01-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 123,
+   "Enrollment No": "LCI2022006",
+   "Name": "AKHILESH JYOTISHI",
+   "DoB": "23-07-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 124,
+   "Enrollment No": "LCI2022007",
+   "Name": "AMAN CHOUHAN",
+   "DoB": "29-05-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 125,
+   "Enrollment No": "LCI2022008",
+   "Name": "AMOL RAM THAKUR",
+   "DoB": "11-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 126,
+   "Enrollment No": "LCI2022009",
+   "Name": "ANKUR",
+   "DoB": "01-08-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 127,
+   "Enrollment No": "LCI2022010",
+   "Name": "ANNEM JASWANTH REDDY",
+   "DoB": "17-11-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 128,
+   "Enrollment No": "LCI2022011",
+   "Name": "ANSH AGGARWAL",
+   "DoB": "20-10-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 129,
+   "Enrollment No": "LCI2022012",
+   "Name": "ANSHAJ KANT SINGH",
+   "DoB": "21-11-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 130,
+   "Enrollment No": "LCI2022013",
+   "Name": "ATHARVA SHIRSAT",
+   "DoB": "23-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 131,
+   "Enrollment No": "LCI2022014",
+   "Name": "AUN ABBAS",
+   "DoB": "16-03-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 132,
+   "Enrollment No": "LCI2022015",
+   "Name": "CHERUKURI LOKESH KRISHNA",
+   "DoB": "15-09-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 133,
+   "Enrollment No": "LCI2022016",
+   "Name": "CHETAN NEHRA",
+   "DoB": "14-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 134,
+   "Enrollment No": "LCI2022017",
+   "Name": "CHOPPARAPU SAI SREEKAR",
+   "DoB": "09-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 135,
+   "Enrollment No": "LCI2022018",
+   "Name": "DACHEPALLY SHASHI VARDHAN REDDY",
+   "DoB": "23-07-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 136,
+   "Enrollment No": "LCI2022019",
+   "Name": "DHANTHALA VARSHA",
+   "DoB": "27-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 137,
+   "Enrollment No": "LCI2022020",
+   "Name": "DISHA DWIVEDI",
+   "DoB": "13-09-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 138,
+   "Enrollment No": "LCI2022021",
+   "Name": "DISHA YADAV",
+   "DoB": "02-07-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 139,
+   "Enrollment No": "LCI2022022",
+   "Name": "GAMANARAM CHOUDHARY",
+   "DoB": "10-03-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 140,
+   "Enrollment No": "LCI2022023",
+   "Name": "GOKULA CEPHAS",
+   "DoB": "02-05-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 141,
+   "Enrollment No": "LCI2022024",
+   "Name": "HRISHAP JOSHI",
+   "DoB": "15-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 142,
+   "Enrollment No": "LCI2022025",
+   "Name": "ISHAAN SINGH",
+   "DoB": "24-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 143,
+   "Enrollment No": "LCI2022026",
+   "Name": "JYOTHIKA PRANAVI BOJJA",
+   "DoB": "17-03-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 144,
+   "Enrollment No": "LCI2022027",
+   "Name": "KAPARTHI MANIDEEP",
+   "DoB": "03-12-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 145,
+   "Enrollment No": "LCI2022028",
+   "Name": "KASHISH GARG",
+   "DoB": "10-11-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 146,
+   "Enrollment No": "LCI2022029",
+   "Name": "KATASANI NAGA DURGA DEVI",
+   "DoB": "11-04-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 147,
+   "Enrollment No": "LCI2022030",
+   "Name": "KATKAR ARSH",
+   "DoB": "16-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 148,
+   "Enrollment No": "LCI2022031",
+   "Name": "LAVUDIA ABHI SHARMIKA",
+   "DoB": "29-08-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 149,
+   "Enrollment No": "LCI2022032",
+   "Name": "MOOD RAM CHARAN",
+   "DoB": "05-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 150,
+   "Enrollment No": "LCI2022033",
+   "Name": "MOODE SANDEEP",
+   "DoB": "21-03-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 151,
+   "Enrollment No": "LCI2022034",
+   "Name": "NAMAN CHOUDHARY",
+   "DoB": "27-01-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 152,
+   "Enrollment No": "LCI2022035",
+   "Name": "NEELESH SAXENA",
+   "DoB": "26-08-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 153,
+   "Enrollment No": "LCI2022036",
+   "Name": "PALETI NITHYA",
+   "DoB": "04-03-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 154,
+   "Enrollment No": "LCI2022037",
+   "Name": "PENUGONDA BALA BHARGAV",
+   "DoB": "09-01-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 155,
+   "Enrollment No": "LCI2022038",
+   "Name": "PINDIPROLI NAGA SAI ANURAG",
+   "DoB": "30-08-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 156,
+   "Enrollment No": "LCI2022039",
+   "Name": "PRAJWAL SHIVAJIRAO JADHAV",
+   "DoB": "23-02-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 157,
+   "Enrollment No": "LCI2022040",
+   "Name": "RIDDHI MAHESHWARI",
+   "DoB": "28-09-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 158,
+   "Enrollment No": "LCI2022041",
+   "Name": "RUPANSHI GARG",
+   "DoB": "25-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 159,
+   "Enrollment No": "LCI2022042",
+   "Name": "SAHIL AGARWAL",
+   "DoB": "02-03-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 160,
+   "Enrollment No": "LCI2022043",
+   "Name": "SANSKAR SAHU",
+   "DoB": "29-05-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 161,
+   "Enrollment No": "LCI2022044",
+   "Name": "SHANU SINGH BHADOURIYA",
+   "DoB": "05-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 162,
+   "Enrollment No": "LCI2022045",
+   "Name": "SHASHANK AGARWAL",
+   "DoB": "24-05-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 163,
+   "Enrollment No": "LCI2022046",
+   "Name": "SHAURYA SUMIT",
+   "DoB": "31-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 164,
+   "Enrollment No": "LCI2022047",
+   "Name": "SHIKHAR RAJ",
+   "DoB": "28-09-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 165,
+   "Enrollment No": "LCI2022048",
+   "Name": "SHREYASH SUNIL LOKHANDE",
+   "DoB": "11-06-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 166,
+   "Enrollment No": "LCI2022049",
+   "Name": "SOURABH DHANANJAY DAS",
+   "DoB": "15-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 167,
+   "Enrollment No": "LCI2022050",
+   "Name": "SOURAV DABRIWALA",
+   "DoB": "20-09-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 168,
+   "Enrollment No": "LCI2022051",
+   "Name": "TABISH IQBAL MAGRAY",
+   "DoB": "07-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 169,
+   "Enrollment No": "LCI2022052",
+   "Name": "TANISHQ SAHU",
+   "DoB": "05-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 170,
+   "Enrollment No": "LCI2022053",
+   "Name": "THORE ABHISHEK SHIVAJI",
+   "DoB": "09-10-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 171,
+   "Enrollment No": "LCI2022054",
+   "Name": "TRISHIKA BHATTACHARYYA",
+   "DoB": "03-10-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 172,
+   "Enrollment No": "LCI2022055",
+   "Name": "VANSHIKA MALIK",
+   "DoB": "04-06-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 173,
+   "Enrollment No": "LCI2022056",
+   "Name": "VEDANT PRALHAD GORE",
+   "DoB": "03-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 174,
+   "Enrollment No": "LCI2022057",
+   "Name": "VIBHORE SHUKLA",
+   "DoB": "26-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 175,
+   "Enrollment No": "LCI2022058",
+   "Name": "AYUSH KUMAR SINGH",
+   "DoB": "28-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 176,
+   "Enrollment No": "LCB2021001",
+   "Name": "ABHAY PRATAP SINGH",
+   "DoB": "06-07-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 177,
+   "Enrollment No": "LCB2021002",
+   "Name": "ADITYA ACHARYA",
+   "DoB": "20-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 178,
+   "Enrollment No": "LCB2021003",
+   "Name": "AGARWAL RIDDHI BRIJ GOPAL",
+   "DoB": "13-12-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 179,
+   "Enrollment No": "LCB2021004",
+   "Name": "ANJALI JAISWAL",
+   "DoB": "03-10-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 180,
+   "Enrollment No": "LCB2021005",
+   "Name": "ANKAM BRAHMASRI SAI SWAROOP",
+   "DoB": "17-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 181,
+   "Enrollment No": "LCB2021006",
+   "Name": "ANURAG PAL",
+   "DoB": "01-01-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 182,
+   "Enrollment No": "LCB2021007",
+   "Name": "ANUSHKA SAMADDER",
+   "DoB": "13-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 183,
+   "Enrollment No": "LCB2021008",
+   "Name": "ARPIT DUBEY",
+   "DoB": "18-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 184,
+   "Enrollment No": "LCB2021009",
+   "Name": "ATUL CHAUDHARY",
+   "DoB": "27-07-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 185,
+   "Enrollment No": "LCB2021010",
+   "Name": "AVIRAL HATWAL",
+   "DoB": "31-10-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 186,
+   "Enrollment No": "LCB2021011",
+   "Name": "BANOTHU ROHINI",
+   "DoB": "05-01-2005",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 187,
+   "Enrollment No": "LCB2021012",
+   "Name": "BAXI DARSH CHIRAG",
+   "DoB": "16-01-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 188,
+   "Enrollment No": "LCB2021013",
+   "Name": "BEESU SAI SHIVA ASHMITHA",
+   "DoB": "19-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 189,
+   "Enrollment No": "LCB2021014",
+   "Name": "BIKRAM NARAYAN DHANRAJ",
+   "DoB": "27-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 190,
+   "Enrollment No": "LCB2021015",
+   "Name": "C LALHRUAIZELA",
+   "DoB": "07-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 191,
+   "Enrollment No": "LCB2021016",
+   "Name": "CHENNAKESAVULA MANI ROHIT",
+   "DoB": "22-10-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 192,
+   "Enrollment No": "LCB2021017",
+   "Name": "CHETAN SURENDRA MESHRAM",
+   "DoB": "06-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 193,
+   "Enrollment No": "LCB2021018",
+   "Name": "DAMA VENKATA VAMSI",
+   "DoB": "30-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 194,
+   "Enrollment No": "LCB2021019",
+   "Name": "DEVENDRA GURNANI",
+   "DoB": "05-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 195,
+   "Enrollment No": "LCB2021020",
+   "Name": "DHEERAJ PAREEK",
+   "DoB": "17-02-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 196,
+   "Enrollment No": "LCB2021021",
+   "Name": "DIYA ANEM",
+   "DoB": "14-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 197,
+   "Enrollment No": "LCB2021022",
+   "Name": "GOURAV PALIWAL",
+   "DoB": "07-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 198,
+   "Enrollment No": "LCB2021023",
+   "Name": "HARSH KUMAR SINGH",
+   "DoB": "13-09-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 199,
+   "Enrollment No": "LCB2021024",
+   "Name": "HIMADRI MONDAL",
+   "DoB": "04-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 200,
+   "Enrollment No": "LCB2021025",
+   "Name": "JUKURI SHASHANK",
+   "DoB": "22-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 201,
+   "Enrollment No": "LCB2021026",
+   "Name": "KALAGOTLA BHARATH KUMAR REDDY",
+   "DoB": "23-09-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 202,
+   "Enrollment No": "LCB2021027",
+   "Name": "KALPANA",
+   "DoB": "28-04-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 203,
+   "Enrollment No": "LCB2021028",
+   "Name": "KRISH GARG",
+   "DoB": "06-05-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 204,
+   "Enrollment No": "LCB2021029",
+   "Name": "KSHITIJ GUPTA",
+   "DoB": "15-07-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 205,
+   "Enrollment No": "LCB2021030",
+   "Name": "KUDNAR YASH POPAT",
+   "DoB": "29-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 206,
+   "Enrollment No": "LCB2021031",
+   "Name": "MANAN PATEL",
+   "DoB": "01-08-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 207,
+   "Enrollment No": "LCB2021032",
+   "Name": "MAYANK FONIA",
+   "DoB": "21-10-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 208,
+   "Enrollment No": "LCB2021033",
+   "Name": "MAYANK RAWAT",
+   "DoB": "14-04-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 209,
+   "Enrollment No": "LCB2021034",
+   "Name": "MUDIT YADAV",
+   "DoB": "24-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 210,
+   "Enrollment No": "LCB2021035",
+   "Name": "PANKAJ KUMAR",
+   "DoB": "01-06-2002",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 211,
+   "Enrollment No": "LCB2021036",
+   "Name": "PRISHA BAVEJA",
+   "DoB": "29-11-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 212,
+   "Enrollment No": "LCB2021037",
+   "Name": "PRIYANSHU MARASKOLHE",
+   "DoB": "30-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 213,
+   "Enrollment No": "LCB2021038",
+   "Name": "RADHEY",
+   "DoB": "06-04-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 214,
+   "Enrollment No": "LCB2021039",
+   "Name": "RISHI RAJ MAHESHWARI",
+   "DoB": "01-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 215,
+   "Enrollment No": "LCB2021040",
+   "Name": "S ROOPESH",
+   "DoB": "22-05-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 216,
+   "Enrollment No": "LCB2021041",
+   "Name": "SAMARTH DINESH SAHU",
+   "DoB": "18-11-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 217,
+   "Enrollment No": "LCB2021042",
+   "Name": "SARTHAK GANURE",
+   "DoB": "09-09-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 218,
+   "Enrollment No": "LCB2021043",
+   "Name": "SARTHAK KUMAR SINGH",
+   "DoB": "19-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 219,
+   "Enrollment No": "LCB2021044",
+   "Name": "SARVESH KUMAR",
+   "DoB": "02-06-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 220,
+   "Enrollment No": "LCB2021045",
+   "Name": "SHAGUN SINGH",
+   "DoB": "14-08-2003",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 221,
+   "Enrollment No": "LCB2021046",
+   "Name": "SHUBHAM SATYENDRA ROY",
+   "DoB": "17-01-2005",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 222,
+   "Enrollment No": "LCB2021047",
+   "Name": "SIDDHANT MANISHA JAGTAP",
+   "DoB": "06-09-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 223,
+   "Enrollment No": "LCB2021048",
+   "Name": "SIDDHANT MUKUND",
+   "DoB": "28-06-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 224,
+   "Enrollment No": "LCB2021049",
+   "Name": "SOUMIL RAI",
+   "DoB": "17-05-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 225,
+   "Enrollment No": "LCB2021050",
+   "Name": "SUKRIT MALPANI",
+   "DoB": "24-12-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 226,
+   "Enrollment No": "LCB2021051",
+   "Name": "TANISHKA SINGH",
+   "DoB": "05-03-2004",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 227,
+   "Enrollment No": "LCB2021052",
+   "Name": "VAISHNAVI SINGH",
+   "DoB": "27-11-2002",
+   "Gender": "Female"
+  },
+  {
+   "S.No.": 228,
+   "Enrollment No": "LCB2021053",
+   "Name": "VITTAL ARABHANVI",
+   "DoB": "26-08-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 229,
+   "Enrollment No": "LCB2021054",
+   "Name": "YADAV ANKIT MAHESHKUMAR",
+   "DoB": "21-03-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 230,
+   "Enrollment No": "LCB2021055",
+   "Name": "YASH TYAGI",
+   "DoB": "06-03-2003",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 231,
+   "Enrollment No": "LCB2022056",
+   "Name": "TALLURI SHESHU",
+   "DoB": "16-07-2004",
+   "Gender": "Male"
+  },
+  {
+   "S.No.": 232,
+   "Enrollment No": "LCB2022057",
+   "Name": "DIVYANSH GAUTAM",
+   "DoB": "31-12-2004",
+   "Gender": "Male"
+  }
+ ]
